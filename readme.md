@@ -13,7 +13,7 @@ Date: <release date or year>
 
 Publisher: <journal, conference, publisher>
 
-ISBN: <ISBN-number>
+Identifier: <ISBN or DOI, see examples in the list of resources>
 
 Tags: <comma separated list of lower-case keywords>
 
@@ -36,7 +36,7 @@ Type : website
 
 Date: 2020
 
-ISBN:
+Identifier:
 
 Tags: filters, equalizer
 
@@ -54,7 +54,7 @@ Date: 2011
 
 Publisher: Wiley
 
-ISBN: 978-0-470-66599-2
+Identifier: isbn:978-0-470-66599-2
 
 Tags: filters, delays, reverb, pitch shifting, granular, phase vocoder, FFT
 
@@ -70,7 +70,7 @@ Type: journal article
 
 Publisher: Reports on Progress in Physics vol. 69
 
-ISBN: DOI: 10.1088/0034-4885/69/1/R01
+Identifier: doi: 10.1088/0034-4885/69/1/R01
 
 Tags: physical modeling, finite difference methods, mass-spring systems, modal synthesis, digial waveguides, wave digital filters
 
@@ -84,7 +84,7 @@ Type: book
 
 Publisher: World Scientific
 
-ISBN: 978-981-279-027-9
+Identifier: isbn: 978-981-279-027-9
 
 Tags: acoustics, perception, hearing, envelopes, upsampling, downsampling, granular, linear time-invariant systems, filters, fourier, fft, phase vocoder
 
@@ -103,7 +103,7 @@ Date: 2009
 
 Publisher: Wiley
 
-ISBN: 978-0-470-51046-9
+Identifier: isbn: 978-0-470-51046-9
 
 Tags: physical modeling, finite difference schemes
 
@@ -121,7 +121,7 @@ Date: 2019
 
 Publisher: YouTube/mylarmelodies
 
-ISBN:
+Identifier:
 
 Tags: reverb, modular
 

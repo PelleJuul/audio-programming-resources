@@ -78,7 +78,7 @@ Description: A great review of all the major physical modeling methods.
 
 ## Introduction to Digital Signal processing: Computer Musically Speaking
 
-Author: Park, Tae Hong
+Author: Tae Hong Park
 
 Type: book
 

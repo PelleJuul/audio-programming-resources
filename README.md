@@ -1,2 +1,117 @@
-# audio-programming-resources
-A curated list for papers and books about DSP and audio programming.
+# Audio Programming Resources: Introduction
+
+This is a curated list of books, papers, etc. about DSP and audio programming. Entries should be added in alphabetical order by title and follow the format:
+
+```
+## <Title of resource>
+
+Author: <authors surname, name>
+
+Type: <book, paper, video, website, etc.>
+
+Date: <release date or year>
+
+Publisher: <journal, conference, publisher>
+
+ISBN: <ISBN-number>
+
+Tags: <comma separated list of lower-case keywords>
+
+Available: <link directly to file (if legal) or where to buy if available>
+
+Description: <A description or abstract of the resource>
+```
+
+# Contributing
+
+Contributions are very welcome! Just make sure that the added resources are high quality and make a pull request.
+
+# List of Resources
+
+## Cookbook formulae for audio equalizer biquad filter coefficients
+
+Author: Robert Bristow-Johnson
+
+Type : website
+
+Date: 2020
+
+ISBN:
+
+Tags: filters, equalizer
+
+Available: (webaudio.github.io)[https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html]
+
+Description: A list of equations for computing the parameters for various kinds of biquad filters. Super useful for anyone who wishes to implement almost any kind of standard filter.
+
+## DAFX: Digital Audio Effects
+
+Author: Zölzer, Udo (editor)
+
+Type: book
+
+Date: 2011
+
+Publisher: Wiley
+
+ISBN: 978-0-470-66599-2
+
+Tags: filters, delays, reverb, pitch shifting, granular, phase vocoder, FFT
+
+Available: [pdf](https://download.e-bookshelf.de/download/0000/5966/81/L-G-0000596681-0002364188.pdf), [Amazon](https://www.amazon.com/DAFX-Digital-Effects-Udo-Z%C3%B6lzer/dp/0470665998)
+
+Description: A comprehensive introduction to almost any audio DSP topic you can think of. A great place to start when researching some topic.
+
+
+## Introduction to Digital Signal processing: Computer Musically Speaking
+
+Author: Park, Tae Hong
+
+Type: book
+
+Publisher: World Scientific
+
+ISBN: 978-981-279-027-9
+
+Tags: acoustics, perception, hearing, envelopes, upsampling, downsampling, granular, linear time-invariant systems, filters, fourier, fft, phase vocoder
+
+Available: [Amazon](https://www.amazon.com/Introduction-Digital-Signal-Processing-Musically/dp/9812790276)
+
+Description: A pedagogical introduction to most major audio DSP topics.
+
+
+## Numerical Sound Synthesis
+
+Author: Bilbao, Stefan
+
+Type: book
+
+Date: 2009
+
+Publisher: Wiley
+
+ISBN: 978-0-470-51046-9
+
+Tags: physical modeling, finite difference schemes
+
+Available: [Wiley](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470749012)
+
+Description: A comprehensive introduction to physical modeling for sound synthesis using finite difference methods.
+
+## Tom Erbe/Soundhack "Designing the Make Noise Erbe-Verb" Reverb Design Lecture (Remastered)
+
+Author: Erbe, Tom
+
+Type: video
+
+Date: 2019
+
+Publisher: YouTube/mylarmelodies
+
+ISBN:
+
+Tags: reverb, modular
+
+Available: [YouTube](https://www.youtube.com/watch?v=Il_qdtQKnqk)
+
+Description: Tom Erbe demonstrates a bunch of different reverb algorithms and talks about the development of the Make Noise Erbeverb eurorack module.

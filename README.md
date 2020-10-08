@@ -5,7 +5,7 @@ This is a curated list of books, papers, etc. about DSP and audio programming. E
 ```
 ## <Title of resource>
 
-Author: <authors surname, name>
+Author: <comma separated author names>
 
 Type: <book, paper, video, website, etc.>
 
@@ -46,7 +46,7 @@ Description: A list of equations for computing the parameters for various kinds 
 
 ## DAFX: Digital Audio Effects
 
-Author: Zölzer, Udo (editor)
+Author: Udo Zölzer (editor)
 
 Type: book
 
@@ -62,6 +62,19 @@ Available: [pdf](https://download.e-bookshelf.de/download/0000/5966/81/L-G-00005
 
 Description: A comprehensive introduction to almost any audio DSP topic you can think of. A great place to start when researching some topic.
 
+## Discrete-time modelling of musical instruments
+
+Authos: Vesa Valimaki, Jyri Pakarinen, Cumhur Erkut, Matti Karjalinen
+
+Type: journal article
+
+Publisher: Reports on Progress in Physics vol. 69
+
+ISBN: DOI: 10.1088/0034-4885/69/1/R01
+
+Tags: physical modeling, finite difference methods, mass-spring systems, modal synthesis, digial waveguides, wave digital filters
+
+Description: A great review of all the major physical modeling methods.
 
 ## Introduction to Digital Signal processing: Computer Musically Speaking
 
@@ -82,7 +95,7 @@ Description: A pedagogical introduction to most major audio DSP topics.
 
 ## Numerical Sound Synthesis
 
-Author: Bilbao, Stefan
+Author: Stefan Bilbao
 
 Type: book
 
@@ -100,7 +113,7 @@ Description: A comprehensive introduction to physical modeling for sound synthes
 
 ## Tom Erbe/Soundhack "Designing the Make Noise Erbe-Verb" Reverb Design Lecture (Remastered)
 
-Author: Erbe, Tom
+Author: Tom Erbe
 
 Type: video
 

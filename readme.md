@@ -111,6 +111,24 @@ Available: [Wiley](https://onlinelibrary.wiley.com/doi/book/10.1002/978047074901
 
 Description: A comprehensive introduction to physical modeling for sound synthesis using finite difference methods.
 
+## The Art of VA Filter Design
+
+Author: Vadim Zavalishin
+
+Type: book
+
+Date: 2015
+
+Publisher: Native Instruments / selfpublished
+
+Identifier:
+
+Tags: virtual analog, filter design, physical modeling
+
+Available: [Native Instruments](https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_1.1.1.pdf)
+
+Description: A through introduction to filter design from the perspective of virtual analog modeling.
+
 ## Tom Erbe/Soundhack "Designing the Make Noise Erbe-Verb" Reverb Design Lecture (Remastered)
 
 Author: Tom Erbe

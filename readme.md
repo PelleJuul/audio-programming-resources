@@ -24,15 +24,33 @@ Description: <A description or abstract of the resource>
 
 # Contributing
 
-Contributions are very welcome! Just make sure that the added resources are high quality and make a pull request.
+Contributions are very welcome! Just add your resources to the list below and make a pull request.
 
 # List of Resources
+
+## A Modular Percussion Synthesis Environment
+
+Author: Stefan Bilbao
+
+Type: paper
+
+Date: 2009
+
+Publisher: 12th Int. Conference on Digital Audio Effects (DAFx)
+
+Identifier:
+
+Tags: physical modeling, finite difference methods
+
+Available: [online](http://dafx09.como.polimi.it/proceedings/papers/paper_68.pdf)
+
+Description: contains definitions of various elements that can be connected to build virtual percussion instruments.
 
 ## Cookbook formulae for audio equalizer biquad filter coefficients
 
 Author: Robert Bristow-Johnson
 
-Type : website
+Type: website
 
 Date: 2020
 
@@ -105,7 +123,7 @@ Publisher: Wiley
 
 Identifier: isbn: 978-0-470-51046-9
 
-Tags: physical modeling, finite difference schemes
+Tags: physical modeling, finite difference schemes, finite difference methods
 
 Available: [Wiley](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470749012)
 

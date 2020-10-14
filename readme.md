@@ -182,3 +182,21 @@ Tags: reverb, modular
 Available: [YouTube](https://www.youtube.com/watch?v=Il_qdtQKnqk)
 
 Description: Tom Erbe demonstrates a bunch of different reverb algorithms and talks about the development of the Make Noise Erbeverb eurorack module.
+
+## Understanding Digital Signal Processing
+
+Author: Richard G. Lyons
+
+Type: book
+
+Date: 2011
+
+Publisher: Prentice Hall
+
+Identifier: isbn: 978-0-13-702741-5
+
+Tags: filter design, convolutions, basics, fft
+
+Available: [Amazon](https://www.amazon.com/dp/0137027419)
+
+Description: All the fundamentals of DSP are covered. It is not audio-specific, but his introduction to filters is very nice.

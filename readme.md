@@ -46,6 +46,24 @@ Available: [online](http://dafx09.como.polimi.it/proceedings/papers/paper_68.pdf
 
 Description: contains definitions of various elements that can be connected to build virtual percussion instruments.
 
+## Applications of Digital Signal Processing to Audio and Acoustics
+
+Author: Mark Kahrs (editor), Karlheinz Brandenburg (editor), William G. Gardner, Dona C. Massie, Julius O. Smith III
+
+Type: book
+
+Date: 2002
+
+Publisher: Kluwer Academic Publishers
+
+Identifier: isbn: 978-0-306-47042-4
+
+Tags: reverb, digital waveguides, wavetable
+
+Available:
+
+Description: A collection of chapters about various DSP concepts. Especially the chapter on Reverb by Gardner is highly recommended.
+
 ## Cookbook formulae for audio equalizer biquad filter coefficients
 
 Author: Robert Bristow-Johnson

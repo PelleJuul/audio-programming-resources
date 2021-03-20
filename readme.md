@@ -200,3 +200,40 @@ Tags: filter design, convolutions, basics, fft
 Available: [Amazon](https://www.amazon.com/dp/0137027419)
 
 Description: All the fundamentals of DSP are covered. It is not audio-specific, but his introduction to filters is very nice.
+
+## The Scientist and Engineer's Guide to Digital Signal Processing
+
+Author: Steven W. Smith
+
+Type: pdf, book, website
+
+Date: 1997
+
+Publisher: California Technical Pub.
+
+Identifier: ISBN 0-9660176-3-3
+
+Tags: fundamentals, convolution, filter design, fft, z-transform, laplace transform
+
+Available: dspguide.com
+
+Description: Visually-oriented, step-by-step guide to the fundamentals of DSP. Not audio specific, but extremely useful for audio applications.
+
+## Introduction to Digital Filters (with Audio Applications)
+
+Author: Julius O. Smith III
+
+Type: website, pdf, book
+
+Date: October 2007
+
+Publisher: W3K Publishing
+
+Identifier: ISBN-10 0974560715
+
+Tags: digital filters, z transform, implementation structures, pole-zero analysis, VA modelling,
+mathematics
+
+Available: https://ccrma.stanford.edu/~jos/filters/
+
+Description: Masterpiece work on practical digital filter design; provides a comprehensive overview of the relevant mathematics & theory, exemplifying concepts with a plethora of practical examples.
